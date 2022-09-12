@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Software Engineer and Avid Learner
 - 🔭 I’m currently working on a MERN stack project
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with other software engineers
 - 💬 Ask me about [Mybnb](https://mybnb-lucyluo.herokuapp.com/#/)
